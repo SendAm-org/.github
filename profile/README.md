@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+SendAm maps a WhatsApp phone number to a Lisk wallet and lets users send, 
+receive, 
+check balances, 
+and request receipts from chat. 
+The user experience hides blockchain complexity: the backend handles wallets, 
+addresses, 
+and settlement on Lisk so the user only ever talks to a chat assistant.
